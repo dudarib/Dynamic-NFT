@@ -1,0 +1,19 @@
+{
+    "name": "Dudarib",
+    "description": "Defender of the Cryptoland",
+    "image": "https://ipfs.io/ipfs/QmZGQA92ri1jfzSu61JRaNQXYg1bLuM7p8YT83DzFA2KLH?filename=Chainlink_Knight.png",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 16
+        },
+        {
+            "trait_type": "Speed",
+            "value": 79
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 26
+        }
+    ]
+}
